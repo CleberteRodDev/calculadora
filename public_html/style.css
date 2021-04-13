@@ -1,1 +1,12 @@
-teste
+body{
+    background-color: lightseagreen;
+}
+h1{
+    text-align: center;
+    
+}
+#bloco1{
+    background-color: white;
+    width: 450px;
+    text-align: center;
+}
